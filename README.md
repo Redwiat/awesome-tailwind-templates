@@ -56,4 +56,4 @@ MIT — Free for personal & commercial use.
 
 ---
 
-### 👋 Created by [Redwan (Redwiat)](https://github.com/Redwiat) — [Ocoxe LLC](https://ocoxe.com)
+### 👋 Created by [Redwan (Redwiat)](https://github.com/Redwiat) — [Ocoxe](https://ocoxe.com)
